@@ -1,0 +1,14 @@
+{
+    "name": "CV 10's Netherlands Mod",
+    "description": "Netherlands custom nation",
+    "readme_url": "https://nws-online.proboards.com/thread/2443/cv-10s-netherlands-mod",
+    "changelog_url": "https://nws-online.proboards.com/thread/2443/cv-10s-netherlands-mod",
+
+    "downloads":
+    [
+        {
+            "version": "1.41",
+            "download_url": "https://raw.githubusercontent.com/Rule-the-Waves-2-Mods/rtw2_registry/master/mods/cv10_netherlands/NED v1.41.zip"
+        }
+    ]
+}
